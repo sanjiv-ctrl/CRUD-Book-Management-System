@@ -31,3 +31,30 @@ Create a `Book` model with the following fields:
 **Expected Result:**
 
 A working Django MVT application that performs Create, Read, Update, and Delete operations on book records using Django ORM.
+
+## TECHNOLOGIES USED:
+- Python
+- Django
+- Django ORM
+- HTML
+- SQLite
+
+## FEATURES:
+- Add new book records
+- View all available books
+- Update book prices
+- Delete book records
+
+## HOW TO RUN:
+1. Clone or download the repository.
+2. Install Django.
+3. Navigate to the Django project folder.
+4. Run database migrations.
+5. Start the development server.
+6. Open the local server address in a browser.
+
+## PROJECT STATUS:
+Developed as a Django MVT and CRUD operations practical exercise.
+
+## MY CONTRIBUTION:
+Worked on implementing book management functionality using Django models, views, URL routing, templates and ORM operations.
